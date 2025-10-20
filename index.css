@@ -1,0 +1,32 @@
+h1{font-size: 90px;
+    font-style:oblique ;
+}
+li{
+    font-size: 20px;
+
+}
+body {
+  background-color:white;
+  
+  text-align: center;
+  color:#fff;
+  padding-top:10em;
+}
+
+* { color:#fff; text-decoration: none;}
+.container-fluid{ margin-top: -12%;
+    
+    /* background-color:yellow; */
+    height: 100vh;
+
+    background-image:url("media.png/red-light-round-podium-black-background-mock-up.jpg");
+}
+nav{ margin-left: -100px;
+    background-color: rgba(67, 65, 65, 0.319);
+    backdrop-filter: blur(10px);
+    z-index: 3;
+  position: fixed;
+}
+.cards{ background:#550A10;
+}
+
